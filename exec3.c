@@ -6,3 +6,4 @@ int main() {
     printf("%d\n", y);
     return 0;
 }
+// impossible d'addition x si il n'a pas de valeur
