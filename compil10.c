@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int 1abc = 5;
-    printf("%d\n", 1abc);
+    int abc = 5;
+    printf("%d\n", abc);
     return 0;
 }
+// extra text after expected end of number
